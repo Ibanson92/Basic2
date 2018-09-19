@@ -2,6 +2,10 @@
     font-size: 40px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+#wTitle{color:red;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
 #nav3:hover {
     background-color:tan;
     width: 8%;
@@ -133,4 +137,3 @@ body {
     background-image: url(../../assets/images/mount.jpg);
     background-size: 100%;
  }
- 
